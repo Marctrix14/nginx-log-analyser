@@ -3,7 +3,7 @@ DevOps project from roadmap.sh, check more information at: https://roadmap.sh/pr
 
 To make the script executable, run "chmod +x log-analyser.sh".
 
-SCRIPT'S output:
+SCRIPT's output:
 
 - Top 5 IP addresses with the most requests
 - Top 5 most requested paths
